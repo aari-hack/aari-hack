@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aarian Kumar</h1>
-<h3 align="center">A passionate frontend developer from Karachi</h3>
+<h1 align="left">Hi 👋, I'm Aarian Kumar</h1>
+
+<h3 align="left">Fronted Developer</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
